@@ -10,12 +10,17 @@ These are mostly guidelines, not rules. Use your best judgment, and feel free to
 
 Please note we have a [code of conduct](CODE_OF_CONDUCT.md), please follow it in all your interactions with the project.
 
-## Many ways to contribute
+## Five ways to contribute
 
-1. [Spread the Word](#spread-the-word)
-2. [Report Bugs](#report-bugs)
-3. [Resolve Issues](#resolve-issues)
-4. [Improve the Documentation](#improve-the-documentation)
+1. [Star this repo](#star-this-repo)
+2. [Spread the Word](#spread-the-word)
+3. [Report Bugs](#report-bugs)
+4. [Resolve Issues](#resolve-issues)
+5. [Improve the Documentation](#improve-the-documentation)
+
+### Star this Repo
+
+The easiest contribution of all. It takes less than 1s and goes a long way! Thank you.
 
 ### Spread the Word
 
