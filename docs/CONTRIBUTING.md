@@ -2,7 +2,7 @@
 
 👍🎉 First off, thank you for taking the time to contribute! 🎉👍
 
-> ⚠️ If you are just looking for help, see [support](../README.md#support)
+> ⚠️ If you are just looking for help, see [support](SUPPORT.md)
 
 The following is a set of guidelines for contributing.
 These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
