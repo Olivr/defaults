@@ -1,3 +1,3 @@
 # Get Support
 
-Join us on our Keybase team: [keybase.io/team/olivr](https://keybase.io/team/olivr)
+:closed_lock_with_key: Join us on Keybase: [keybase.io/team/olivr](https://keybase.io/team/olivr)
